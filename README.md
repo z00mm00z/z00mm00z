@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @z00mm00z
 - 👀 I’m interested in making things.
 - 🌱 I’m currently learning how to use git.
-- 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: @z00mm00z on twitter :)
 
 <!---
