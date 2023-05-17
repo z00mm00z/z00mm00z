@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @z00mm00z
-- 👀 I’m interested in making things.
+- 👀 I’m interested in learning. 
 - 📫 Reach me: @z00mm00z on twitter :)
 
 <!---
