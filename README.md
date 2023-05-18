@@ -8,7 +8,7 @@ I mostly dabble in Game Development and Hardware Stuff. Anything I find cool.
 </a>
 <br />
 <br />
-<a href="z00mm00z.github.io">Check out my website</a>
+<a href="z00mm00z.github.io">More info [will be] on my website [at some point]</a>
 
 
 <!---
