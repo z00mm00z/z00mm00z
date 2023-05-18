@@ -3,7 +3,7 @@
 I mostly dabble in Game Development and Hardware Stuff. Anything I find cool. 
 <br />
 <br />
-More info [will be] on <a href="z00mm00z.github.io">my website</a> [at some point]
+More info [will be] on <a href="z00mm00z.github.io">my website</a> [at some point]. 
 
 
 <!---
