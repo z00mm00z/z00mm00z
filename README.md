@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @z00mm00z
-- 👀 I’m interested in learning. 
+### Hey, I'm z00mm00z. 
+
+<a href="https://twitter.com/z00mm00z">
+  <img align="left" alt="z00mm00z | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+
 - 📫 Reach me: @z00mm00z on twitter :)
 
 <!---
