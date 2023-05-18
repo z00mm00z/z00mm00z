@@ -1,14 +1,9 @@
 ### Hey, I'm z00mm00z. 
 
 I mostly dabble in Game Development and Hardware Stuff. Anything I find cool. 
-
-<br />
-<a href="https://twitter.com/z00mm00z"><~~ My Twitter :)
-  <img align="left" alt="z00mm00z | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 <br />
 <br />
-<a href="z00mm00z.github.io">More info [will be] on my website [at some point]</a>
+More info [will be] on <a href="z00mm00z.github.io">my website</a> [at some point]
 
 
 <!---
