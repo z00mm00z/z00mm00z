@@ -1,4 +1,4 @@
-### Hey, I'm z00mm00z. 
+### Hey, I'm Robert. 
 
 I mostly dabble in Game Development and Hardware Stuff. Anything I find cool. 
 <br />
