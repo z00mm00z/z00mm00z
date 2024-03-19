@@ -4,6 +4,9 @@ I mostly dabble in Game Development and Hardware Stuff. Anything I find cool.
 <br />
 <br />
 More info [will be] on <a href="https://z00mm00z.github.io">my website</a> [at some point]. 
+<br />
+<br />
+I publish my "finished" games on <a href="https://z00mm00z.itch.io>itch.io</a>
 
 
 <!---
