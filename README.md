@@ -3,6 +3,9 @@
 I mostly dabble in Game Development and Hardware Stuff. Anything I find cool. 
 <br />
 <br />
+My main interests lie in aerospace related hardware and software.
+<br />
+<br />
 More info [will be] on <a href="https://z00mm00z.github.io">my website</a> [at some point]. 
 <br />
 <br />
