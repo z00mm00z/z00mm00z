@@ -1,6 +1,6 @@
 ### Hey, I'm Robert. 
 
-I mostly dabble in Game Development and Hardware Stuff, especially aerospace related. Anything I find cool. 
+I mostly dabble in Game Development and largely aerospace related Hardware Stuff. Anything I find cool. 
 <br />
 <br />
 More info [will be] on <a href="https://z00mm00z.github.io">my website</a> [at some point]. 
